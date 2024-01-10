@@ -4,7 +4,15 @@
 
 - 🌱 Two resolutions for 2024: explore coding in Rust, run a first marathon.
 
-- 💬 [Get in touch](https://www.linkedin.com/in/adam-malyali/) 
+- 💬 [Get in touch](https://www.linkedin.com/in/adam-malyali/)
+
+Some projects that I've lead:
+
+1. [XCLASS](https://github.com/amalyali/xclass): automated astronomical X-ray source classification, adapted from work completed in my [PhD thesis](https://edoc.ub.uni-muenchen.de/29876/).
+
+2. [eROSITA data validation](https://github.com/amalyali/erosita_validation): processing scripts for validation of the eROSITA source catalogues.
+
+3. [RadioGalFit](https://github.com/amalyali/RadioGalFit): Radio Galaxy Detection and Characterization in the Visibility Domain using Bayesian Inference. Code developed during Masters thesis, and paper later published in [MNRAS](https://academic.oup.com/mnras/article/486/2/2695/5432377).
 
 <!--
 **amalyali/amalyali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
