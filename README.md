@@ -6,7 +6,7 @@
 
 - 💬 [Get in touch](https://www.linkedin.com/in/adam-malyali/)
 
-Some projects that I've lead:
+Some projects that I've lead with publicly available code:
 
 1. [XCLASS](https://github.com/amalyali/xclass): automated astronomical X-ray source classification, adapted from work completed in my [PhD thesis](https://edoc.ub.uni-muenchen.de/29876/).
 
